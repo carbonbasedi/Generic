@@ -1,0 +1,15 @@
+C:\Users\rusla\source\repos\GenericsTask\GenericsTask\bin\Debug\net6.0\GenericsTask.exe
+C:\Users\rusla\source\repos\GenericsTask\GenericsTask\bin\Debug\net6.0\GenericsTask.deps.json
+C:\Users\rusla\source\repos\GenericsTask\GenericsTask\bin\Debug\net6.0\GenericsTask.runtimeconfig.json
+C:\Users\rusla\source\repos\GenericsTask\GenericsTask\bin\Debug\net6.0\GenericsTask.dll
+C:\Users\rusla\source\repos\GenericsTask\GenericsTask\bin\Debug\net6.0\GenericsTask.pdb
+C:\Users\rusla\source\repos\GenericsTask\GenericsTask\obj\Debug\net6.0\GenericsTask.csproj.AssemblyReference.cache
+C:\Users\rusla\source\repos\GenericsTask\GenericsTask\obj\Debug\net6.0\GenericsTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusla\source\repos\GenericsTask\GenericsTask\obj\Debug\net6.0\GenericsTask.AssemblyInfoInputs.cache
+C:\Users\rusla\source\repos\GenericsTask\GenericsTask\obj\Debug\net6.0\GenericsTask.AssemblyInfo.cs
+C:\Users\rusla\source\repos\GenericsTask\GenericsTask\obj\Debug\net6.0\GenericsTask.csproj.CoreCompileInputs.cache
+C:\Users\rusla\source\repos\GenericsTask\GenericsTask\obj\Debug\net6.0\GenericsTask.dll
+C:\Users\rusla\source\repos\GenericsTask\GenericsTask\obj\Debug\net6.0\refint\GenericsTask.dll
+C:\Users\rusla\source\repos\GenericsTask\GenericsTask\obj\Debug\net6.0\GenericsTask.pdb
+C:\Users\rusla\source\repos\GenericsTask\GenericsTask\obj\Debug\net6.0\GenericsTask.genruntimeconfig.cache
+C:\Users\rusla\source\repos\GenericsTask\GenericsTask\obj\Debug\net6.0\ref\GenericsTask.dll
